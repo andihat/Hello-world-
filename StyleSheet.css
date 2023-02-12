@@ -1,0 +1,133 @@
+h3 {
+
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 20px;
+    font-size: 20px;
+    
+}
+
+#backDrop {
+
+    background-color: #868686;
+
+}
+
+#firstNum {
+
+    background-color: #494949;
+    border-color: black;
+    margin: -20px;
+    margin-left: 10px;
+    font-size: 20px;
+    color: white;
+    padding: 5px;
+    padding-left: 8px;
+    border-radius: 30px;
+    max-width: 30dp;
+
+}
+
+#secondNum {
+
+    background-color: #494949;
+    border-color: black;
+    margin: -20px;
+    margin-left: 10px;
+    font-size: 20px;
+    color: white;
+    padding: 5px;
+    padding-left: 8px;
+    border-radius: 30px;
+    max-width: 30dp;
+
+}
+
+.buttons {
+
+    padding-top: 40px;
+    margin-left: -10px;
+    
+}
+
+#divide:hover , #add:hover, #multiply:hover, #subtract:hover{
+    
+    background-color: black;
+    
+}
+
+#divide {
+
+    font-weight: bold;
+    background-color: #494949;
+    border-color: black;
+    margin: -20px;
+    margin-left: 20px;
+    font-size: 20px;
+    color: white;
+    padding: 5px;
+    padding-left: 5px;
+    border-radius: 30px;
+    max-width: 30dp;
+    
+
+}
+
+#multiply {
+
+    font-weight: bold;
+    background-color: #494949;
+    border-color: black;
+    margin: -20px;
+    margin-left: 20px;
+    font-size: 20px;
+    color: white;
+    padding: 5px;
+    padding-left: 5px;
+    border-radius: 30px;
+    max-width: 30dp;
+
+}
+
+#add {
+
+    font-weight: bold;
+    background-color: #494949;
+    border-color: black;
+    margin: -20px;
+    margin-left: 20px;
+    font-size: 20px;
+    color: white;
+    padding: 5px;
+    padding-left: 5px;
+    border-radius: 30px;
+    max-width: 30dp;
+
+}
+
+#subtract {
+
+    font-weight: bold;
+    background-color: #494949;
+    border-color: black;
+    margin: -20px;
+    margin-left: 20px;
+    font-size: 20px;
+    color: white;
+    padding: 5px;
+    padding-left: 5px;
+    border-radius: 30px;
+    max-width: 30dp;
+
+}
+
+#result {
+    
+    font-weight: bold;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 20px;
+    padding: -5px;
+    
+
+}
